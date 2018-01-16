@@ -1,0 +1,22 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "this is learn node",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZoeLeee/anydoor.git"
+  },
+  "author": "zoe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZoeLeee/anydoor/issues"
+  },
+  "homepage": "https://github.com/ZoeLeee/anydoor#readme",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
