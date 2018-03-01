@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ZoeLeee/anydoor#readme",
   "dependencies": {
-    "chalk": "^2.3.0"
+    "chalk": "^2.3.0",
+    "handlebars": "^4.0.11"
   }
 }
