@@ -1,8 +1,11 @@
 {
-  "name": "anydoor",
-  "version": "1.0.0",
+  "name": "anydoor-zoe",
+  "version": "0.1.1",
   "description": "this is learn node",
-  "main": ".eslintrc.js",
+  "main": "src/app.js",
+  "bin":{
+    "anydoor":"src/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +21,7 @@
   "homepage": "https://github.com/ZoeLeee/anydoor#readme",
   "dependencies": {
     "chalk": "^2.3.0",
-    "handlebars": "^4.0.11"
+    "handlebars": "^4.0.11",
+    "yargs": "^11.0.0"
   }
 }
