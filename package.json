@@ -1,6 +1,6 @@
 {
   "name": "anydoor-zoe",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "this is learn node",
   "main": "src/app.js",
   "bin":{
